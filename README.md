@@ -1,11 +1,11 @@
 <h1 >Hi 👋, I'm MohammadReza Khosravian</h1>
 <h3 >Full-Stack Web Developer. Programmer, Computer and food lover.</h3>
 
-<div ><img align="center" src="https://github-readme-stats.vercel.app/api?username=mrkhosravian&show_icons=true&locale=en" alt="mrkhosravian" /></div>
-
+<div ><img align="center" src="https://github-readme-stats.vercel.app/api?username=mrkhosravian&theme=vision-friendly-dark&show_icons=true&locale=en" alt="mrkhosravian" /></div>
+<br/>
 <div>
   
-  [![mohammadreza khosravian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrkhosravian)](https://github.com/anuraghazra/github-readme-stats)
+  [![mohammadreza khosravian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrkhosravian&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
