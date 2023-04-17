@@ -2,6 +2,7 @@
 <h3 >Full-Stack Web Developer. Programmer, Computer and food lover.</h3>
 
 <div ><img align="center" src="https://github-readme-stats.vercel.app/api?username=mrkhosravian&show_icons=true&locale=en" alt="mrkhosravian" /></div>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrkhosravian)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 How to reach me **mrkhdev@gmail.com**
 
