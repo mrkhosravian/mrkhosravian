@@ -5,7 +5,7 @@
 <br/>
 <div>
   
-  [![mohammadreza khosravian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrkhosravian&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![mohammadreza khosravian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrkhosravian&theme=vision-friendly-dark&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
